@@ -1,9 +1,11 @@
 <!-- Your GitHub Profile README.md -->
 
-<h1 align="center">
-  Hi 👋, I'm Alee Raza
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iAleeRaza.iAleeRaza" alt="Visitor Count" />
-</h1>
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=iAleeRaza.iAleeRaza" alt="Visitor Count" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Alee Raza</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Aspiring+Software+Engineer;AI+Enthusiast;Generative+AI+Explorer;Open+Source+Contributor" alt="Typing SVG" />
