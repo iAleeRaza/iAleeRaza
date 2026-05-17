@@ -14,11 +14,10 @@
 <div align="center">
   <h3>👨‍💻 About Me</h3>
 
-🎓 I'm a Software Engineering Student  
-🌱 I’m currently exploring **Gen AI**, **Agentic AI**, **AI Agents** and **AI Automation** 
-💻 I love building **Python-based projects** and exploring **Git & GitHub**  
-📌 Currently working on: `Gen AI` and `Python Programming`.  
-🧠 Exploring `Python`, `Gen AI`, and `GitHub Pages`  
+🎓 I'm a Software Engineering Gaduate    
+💻 I love building **Python-based projects** and exploring **Git & GitHub**    
+📌 Currently working on: `AI Agents` and `Python Programming`.  
+🧠 Exploring `Python`, `Gen AI`, `Agentic AI`, `AI Agents` and `GitHub Pages`  
 </div>
 
 ---
