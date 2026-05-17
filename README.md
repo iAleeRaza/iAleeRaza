@@ -14,7 +14,7 @@
 <div align="center">
   <h3>👨‍💻 About Me</h3>
 
-🎓 I'm a Software Engineering Gaduate    
+🎓 I'm a Software Engineering Graduate    
 💻 I love building **Python-based projects** and exploring **Git & GitHub**    
 📌 Currently working on: `AI Agents` and `Python Programming`.  
 🧠 Exploring `Python`, `Gen AI`, `Agentic AI`, `AI Agents` and `GitHub Pages`  
